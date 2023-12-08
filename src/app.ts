@@ -1,1 +1,1 @@
-console.log("Hello THM (MNI)!")
+console.log("Hello THM - MNI!")
