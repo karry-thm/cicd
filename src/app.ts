@@ -5,7 +5,7 @@ const PORT = 3000;
 const server: Express = express()
 
 server.get("/", (req, res) => {
-    res.send("Hello THM!");
+    res.send("Hello Technische Hochschule Mittelhessen!");
 })
 
 server.listen(PORT, () => {
